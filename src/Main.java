@@ -8,7 +8,7 @@ public class Main {
     Cat cat = new Cat("Barsik");
 
     System.out.println("A battered explorer named " + explorer.name + " entered in old Vietnamese jungle.");
-    explorer.setSight(60);
+    explorer.setSight(100);
     explorer.setSkill(75);
 
     jungle.populate(jaguar);
